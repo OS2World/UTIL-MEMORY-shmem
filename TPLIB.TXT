@@ -1,0 +1,16 @@
+This project uses the TPLIB library for some of its
+userinterface functionality.
+
+The binary for the library (TPLIB.LIB) is included in
+the distribution ZIP, as well as the interface include
+files (TP*.H). This is an OS/2 32-bit binary, compiled
+and usable with the IBM VisualAge 3.6 C/C++ compiler.
+
+The TPLIB library is owned and copyrighted by Fsys Software,
+but use in non-commercial projects is allowed after getting
+(email) permission. Contact: info@fsys.nl
+
+TPLIB might become a commercial offering sometime in the
+future, with (extended) DOS, Windows-NT and OS/2 versions.
+
+Regards, Jan van Wijk; Fsys Software
